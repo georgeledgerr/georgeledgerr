@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm George 👋
 
-👽👽
+I have just started my Data Engineering training with DES9
+
+I will update this profile 🙂
 <!--👽👽
 **georgeledgerr/georgeledgerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
